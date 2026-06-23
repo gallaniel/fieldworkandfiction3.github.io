@@ -3,7 +3,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Fieldwork & Fiction Masterclass III: Drawing, Mapping and Recording Wounded Urban Landscapes </title>
+<title>Fieldwork & Fiction Masterclass III </title>
 
 <style>
 :root {
