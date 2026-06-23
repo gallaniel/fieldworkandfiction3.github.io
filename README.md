@@ -116,15 +116,11 @@ footer {
 
     <div class="intro">
         <p>
-            How can we listen to a landscape? How can drawing, mapping and
-            sound recording reveal overlooked traces of urban transformation?
+            
         </p>
 
         <p>
-            In the third masterclass of our Fieldwork and Fiction series, we build on the format of exploratory field experiments from previous sessions, which addressed methodological, aesthetic and narrative aspects of storytelling. We set out to explore the Aachener Berg, a rubble hill transformed into a park in Cologne’s Green Belt—one of the key field research sites for MESH PhD candidate Daniel Gallano in his doctoral project on “Wounded urban landscapes: violence, everyday life and more-than-human urbanism in two Cologne mounds.” 
-            Under the thematic focus “Wounded Urban Landscapes”, the masterclass will investigate how urban environments bear traces of ecological, historical, and social transformations, and how such traces can be perceived, documented, and narratively reworked through embodied field practices.
-            During the morning field session, participants will experiment with techniques of mapping, listening, recording, and drawing, producing visual and audio materials based on direct environmental observation. Inspired by environmental aesthetics, eco-phenomenology, and multispecies approaches to fieldwork, we will pay particular attention to the notion of soundscape and to the multisensory dimensions of environmental experience. Through eco-visuo-audio-phenomenological observation, participants will explore how sounds, images, atmospheres, and spatial relations contribute to our understanding of place.
-            In the afternoon, we will reconvene at MESH for a discussion and analysis session led by Mariagrazia Portera. Together, we will reflect on how field observations can be translated into different forms of storytelling and environmental narration, exploring the methodological and aesthetic potential of fieldwork as a creative and research-oriented practice.
+            
         </p>
 
         <p>
@@ -207,9 +203,10 @@ footer {
     <h2>About the Workshop</h2>
 
     <p>
-        Fieldwork & Fiction Masterclass III brought together methods of
-        observation, listening, drawing and mapping to investigate wounded
-        urban landscapes through collective fieldwork.
+        In the third masterclass of our Fieldwork and Fiction series, we build on the format of exploratory field experiments from previous sessions, which addressed methodological, aesthetic and narrative aspects of storytelling. We set out to explore the Aachener Berg, a rubble hill transformed into a park in Cologne’s Green Belt—one of the key field research sites for MESH PhD candidate Daniel Gallano in his doctoral project on “Wounded urban landscapes: violence, everyday life and more-than-human urbanism in two Cologne mounds.” 
+            Under the thematic focus “Wounded Urban Landscapes”, the masterclass will investigate how urban environments bear traces of ecological, historical, and social transformations, and how such traces can be perceived, documented, and narratively reworked through embodied field practices.
+            During the morning field session, participants will experiment with techniques of mapping, listening, recording, and drawing, producing visual and audio materials based on direct environmental observation. Inspired by environmental aesthetics, eco-phenomenology, and multispecies approaches to fieldwork, we will pay particular attention to the notion of soundscape and to the multisensory dimensions of environmental experience. Through eco-visuo-audio-phenomenological observation, participants will explore how sounds, images, atmospheres, and spatial relations contribute to our understanding of place.
+            In the afternoon, we will reconvene at MESH for a discussion and analysis session led by Mariagrazia Portera. Together, we will reflect on how field observations can be translated into different forms of storytelling and environmental narration, exploring the methodological and aesthetic potential of fieldwork as a creative and research-oriented practice.
     </p>
 
     <footer>
